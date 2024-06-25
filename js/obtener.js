@@ -1,0 +1,1 @@
+let indice = document.getElementById("")
